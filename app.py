@@ -6,5 +6,5 @@ def hello_world():
 	return 'Hello Paulo!'
 
 @app.route('/apelido')
-def hello_world():
+def show_surname():
 	return 'Hello Serafim!'
